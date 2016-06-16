@@ -1,0 +1,10 @@
+The following files have to be adapted:
+weak_learner.h
+image_weak_learner.h
+histogram_statistics.h
+
+Places to be modified are marked with "TODO UIE A2".
+
+Parameters for training are defined in two files:
+training.h (tree structure and sampling numbers)
+image_weak_learner.h (sample fractions and pixel offsets)
